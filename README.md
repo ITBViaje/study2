@@ -1,2 +1,2 @@
 # study2
-prueba clone
+Prueba clone desde local
